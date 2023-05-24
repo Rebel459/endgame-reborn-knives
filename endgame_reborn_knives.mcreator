@@ -1,0 +1,153 @@
+{
+  "mod_elements": [
+    {
+      "name": "SteelKnife",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "steel_knife",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/endgamerebornknives/item/SteelKnifeItem.java",
+          "src/main/resources/assets/endgame_reborn_knives/models/item/steel_knife.json"
+        ]
+      }
+    },
+    {
+      "name": "ReinforcedSteelKnife",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "reinforced_steel_knife",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/endgame_reborn_knives/models/item/reinforced_steel_knife.json",
+          "src/main/java/net/mcreator/endgamerebornknives/item/ReinforcedSteelKnifeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "GildedSteelKnife",
+      "type": "tool",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "gilded_steel_knife",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/endgame_reborn_knives/models/item/gilded_steel_knife.json",
+          "src/main/java/net/mcreator/endgamerebornknives/item/GildedSteelKnifeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "ForgottenSteelKnife",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "forgotten_steel_knife",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/endgamerebornknives/item/ForgottenSteelKnifeItem.java",
+          "src/main/resources/assets/endgame_reborn_knives/models/item/forgotten_steel_knife.json"
+        ]
+      }
+    },
+    {
+      "name": "ProsperousSteelKnife",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "prosperous_steel_knife",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/endgame_reborn_knives/models/item/prosperous_steel_knife.json",
+          "src/main/java/net/mcreator/endgamerebornknives/item/ProsperousSteelKnifeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "FracturedSteelKnife",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "fractured_steel_knife",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/endgame_reborn_knives/models/item/fractured_steel_knife.json",
+          "src/main/java/net/mcreator/endgamerebornknives/item/FracturedSteelKnifeItem.java"
+        ]
+      }
+    },
+    {
+      "name": "SculkSteelKnife",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "sculk_steel_knife",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/endgamerebornknives/item/SculkSteelKnifeItem.java",
+          "src/main/resources/assets/endgame_reborn_knives/models/item/sculk_steel_knife.json"
+        ]
+      }
+    },
+    {
+      "name": "NetheriteKnifeReborn",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "netherite_knife_reborn",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/endgame_reborn_knives/models/item/netherite_knife_reborn.json",
+          "src/main/java/net/mcreator/endgamerebornknives/item/NetheriteKnifeRebornItem.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.endgame_reborn_knives.sculk_steel_knife": "Sculk Steel Knife",
+      "item.endgame_reborn_knives.gilded_steel_knife": "Gilded Steel Knife",
+      "item.endgame_reborn_knives.steel_knife": "Steel Knife",
+      "item.endgame_reborn_knives.reinforced_steel_knife": "Reinforced Steel Knife",
+      "item.endgame_reborn_knives.prosperous_steel_knife": "Prosperous Steel Knife",
+      "item.endgame_reborn_knives.forgotten_steel_knife": "Forgotten Steel Knife",
+      "item.endgame_reborn_knives.netherite_knife_reborn": "Netherite Knife",
+      "item.endgame_reborn_knives.fractured_steel_knife": "Fractured Steel Knife"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "endgame_reborn_knives",
+    "modName": "Endgame Reborn Knives",
+    "version": "1.0.0",
+    "description": "Adds compatibility support for Farmer\u0027s Delight\u0027s knives for Endgame Reborn",
+    "author": "Rebel459",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.19.2",
+    "credits": "Made by Rebel459. Credit for the Netherite Knife textures goes to Farmers Delight, as do the tags and knife texture template.",
+    "modElementsPackage": "net.mcreator.endgamerebornknives",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300110610
+}

@@ -1,0 +1,37 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "endgame_reborn_knives:netherite_knife_reborn",
+      "required": false
+    },
+    {
+      "id": "endgame_reborn_knives:steel_knife",
+      "required": false
+    },
+    {
+      "id": "endgame_reborn_knives:reinforced_steel_knife",
+      "required": false
+    },
+    {
+      "id": "endgame_reborn_knives:gilded_steel_knife",
+      "required": false
+    },
+    {
+      "id": "endgame_reborn_knives:forgotten_steel_knife",
+      "required": false
+    },
+    {
+      "id": "endgame_reborn_knives:fractured_steel_knife",
+      "required": false
+    },
+    {
+      "id": "endgame_reborn_knives:sculk_steel_knife",
+      "required": false
+    },
+    {
+      "id": "endgame_reborn_knives:prosperous_steel_knife",
+      "required": false
+    }
+  ]
+}

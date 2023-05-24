@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "farmersdelight:netherite_knife"
+  },
+  "addition": {
+    "item": "endgame_reborn:gilded_steel_ingot"
+  },
+  "result": {
+    "item": "reborn_knives:gilded_steel_knife"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "reborn_knives:netherite_knife_reborn"
+  },
+  "addition": {
+    "item": "endgame_reborn:prosperous_steel_ingot"
+  },
+  "result": {
+    "item": "reborn_knives:prosperous_steel_knife"
+  }
+}
