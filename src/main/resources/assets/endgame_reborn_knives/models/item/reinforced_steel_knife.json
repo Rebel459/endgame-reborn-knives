@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "endgame_reborn_knives:items/reinforced_steel_knife"
+  }
+}
